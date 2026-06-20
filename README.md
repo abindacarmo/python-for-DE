@@ -1,10 +1,10 @@
 Python for Data Engineering Roadmap
 Progress tracker for learning Python from beginner to advanced, focused on data engineering.
-Progress: 0/33 topics (0%)
+Progress: 2/33 topics (0%)
 
 Phase 1 — Python Foundations
 - [X] Variables, data types & operators — int, float, str, bool, list, dict, tuple, set
-- [ ] Control flow — if/elif/else, for & while loops, break/continue
+- [X] Control flow — if/elif/else, for & while loops, break/continue
 - [ ] Functions — def, return, *args, **kwargs, default parameters
 - [ ] List & dict comprehensions — Compact data transformation in one line
 - [ ] String methods & f-strings — split, strip, join, format strings
