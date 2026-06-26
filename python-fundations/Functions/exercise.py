@@ -74,22 +74,21 @@ biodata(
 
 
 # example 5
-# def biodataa(
-#         name="Abinda",
-#         age=22,
-#         hobi=("Coding", "Gaming"),
-#         live="Dili",
-#         city="Timor-Leste"
 
-# ):
-#     print("Name: ", ["name"])
-#     for i in ["hobi"]:
-#         print("-", i)
-#     print("information:")
-#     print("Live: "), ["live"]
-#     print("City: "), ["city"]
+def student_information(name, age, *args, **kwargs):
+    print("Name: ",name)
+    print("Hobbies: ", args)
+    print("Information: ", kwargs)
 
-# print(biodataa)
+
+student_information(
+    "Abinda",
+    21,
+    "Coding",
+    "Gaming",
+    live="Dili",
+    city="Timor-Leste"
+)
 
 
 
