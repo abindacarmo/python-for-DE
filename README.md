@@ -6,7 +6,7 @@ Phase 1 — Python Foundations
 - [X] Variables, data types & operators — int, float, str, bool, list, dict, tuple, set
 - [X] Control flow — if/elif/else, for & while loops, break/continue
 - [X] Functions — def, return, *args, **kwargs, default parameters
-- [ ] List & dict comprehensions — Compact data transformation in one line
+- [X] List & dict comprehensions — Compact data transformation in one line
 - [ ] String methods & f-strings — split, strip, join, format strings
 - [ ] Error handling — try/except/finally, raising custom exceptions
 - [ ] Modules, packages & venv — import, pip install, requirements.txt
