@@ -8,7 +8,7 @@ Phase 1 — Python Foundations
 - [X] Functions — def, return, *args, **kwargs, default parameters
 - [X] List & dict comprehensions — Compact data transformation in one line
 - [X] String methods & f-strings — split, strip, join, format strings
-- [ ] Error handling — try/except/finally, raising custom exceptions
+- [X] Error handling — try/except/finally, raising custom exceptions
 - [ ] Modules, packages & venv — import, pip install, requirements.txt
 
 Phase 2 — Data Handling with pandas
